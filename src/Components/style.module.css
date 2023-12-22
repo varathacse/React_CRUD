@@ -1,0 +1,104 @@
+* {
+  inset: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: cursive;
+}
+
+#nav {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  background-color: rgb(53, 211, 255);
+  align-items: center;
+  justify-content: left;
+}
+#nav > a {
+  color: rgb(57, 57, 57);
+  text-decoration: none;
+  padding: 20px;
+}
+
+#createUser {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: azure;
+  height: 530px;
+}
+#myform {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 390px;
+  background-color: rgb(185, 255, 255);
+  text-align: left;
+  border-radius: 20px;
+  box-shadow: 0px 0px 8px rgb(131, 131, 255);
+}
+
+#myform > form > input {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  padding-left: 5px;
+}
+#myform > form > input:focus {
+  outline: none;
+}
+
+#myform > form > button {
+  width: 70px;
+  height: 30px;
+  border: none;
+  background-color: rgb(53, 211, 255);
+  color: aliceblue;
+  border-radius: 10px;
+  margin-top: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+/* -------------Users------------- */
+
+#userPage {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 25px 15px;
+  margin: 20px;
+  
+}
+#userCard {
+  padding: 10px;
+  width: 200px;
+  height: 230px;
+  background-color: rgb(185, 255, 255);
+  box-shadow:0px 0px 8px rgb(187, 187, 255);
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#userCard > table button {
+  border: none;
+  width: 50px;
+  height: 30px;
+  background-color: rgb(85, 85, 248);
+  color: aliceblue;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#userCard > table {
+  font-size: 14px;
+  width: 90%;
+  height: 70%;
+}

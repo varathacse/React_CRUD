@@ -1,0 +1,118 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Arjun",
+      "salary": "74000",
+      "company": "Dev Tech"
+    },
+    {
+      "id": 2,
+      "name": "Dharsan",
+      "salary": "4000000",
+      "company": "Tech Innovations"
+    },
+    {
+      "id": 3,
+      "name": "Bob",
+      "salary": "32000",
+      "company": "Code Masters"
+    },
+    {
+      "name": "Charlie",
+      "salary": "38000",
+      "company": "InnoTech Solutions",
+      "id": 4
+    },
+    {
+      "name": "David",
+      "salary": "35000",
+      "company": "Byte Wizards",
+      "id": 5
+    },
+    {
+      "name": "Eva",
+      "salary": "42000",
+      "company": "Digital Dynamics",
+      "id": 6
+    },
+    {
+      "name": "Frank",
+      "salary": "30000",
+      "company": "Future Coders",
+      "id": 7
+    },
+    {
+      "name": "Grace",
+      "salary": "36000",
+      "company": "Pixel Creations",
+      "id": 8
+    },
+    {
+      "name": "Henry",
+      "salary": "38000",
+      "company": "Tech Innovate",
+      "id": 9
+    },
+    {
+      "name": "Ivy",
+      "salary": "32000",
+      "company": "Quantum Systems",
+      "id": 10
+    },
+    {
+      "name": "Jack",
+      "salary": "39000",
+      "company": "Innovative Minds",
+      "id": 11
+    },
+    {
+      "name": "Katherine",
+      "salary": "35000",
+      "company": "Clever Code",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "Mary",
+      "salary": "33000",
+      "company": "Tech Trends"
+    },
+    {
+      "name": "Mia",
+      "salary": "33000",
+      "company": "Tech Trends",
+      "id": 14
+    },
+    {
+      "name": "Nathan",
+      "salary": "37000",
+      "company": "Code Fusion",
+      "id": 15
+    },
+    {
+      "name": "Olivia",
+      "salary": "34000",
+      "company": "Digital Dynamics",
+      "id": 16
+    },
+    {
+      "name": "Peter",
+      "salary": "40000",
+      "company": "InnoTech Solutions",
+      "id": 17
+    },
+    {
+      "name": "Quinn",
+      "salary": "31000",
+      "company": "Quantum Systems",
+      "id": 18
+    },
+    {
+      "name": "Ryan",
+      "salary": "38000",
+      "company": "Byte Wizards",
+      "id": 19
+    }
+  ]
+}
